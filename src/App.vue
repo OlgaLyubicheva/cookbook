@@ -8,6 +8,7 @@
   </header>
 
   <main>
+    here main
   </main>
 </template>
 
